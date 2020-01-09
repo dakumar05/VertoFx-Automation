@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b50fa4f1-6a5b-4a31-aa0d-c8e19f4d7189" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vv2LtiWt6nYnJDbSvkpwSXyFLc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testCases/integrationTestCases" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anild\Documents\PycharmProjects\VertoFx_AutomationMaster\testCases\integrationTestCases" />
+      <recent name="C:\Users\anild\Documents\PycharmProjects\VertoFx_AutomationMaster\testCases\integrationTestCases\tcUtils" />
+      <recent name="C:\Users\anild\Documents\PycharmProjects\VertoFx_AutomationMaster\baseModules\bmutils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anild\Documents\PycharmProjects\VertoFx_AutomationMaster\testCases\integrationTestCases" />
+      <recent name="C:\Users\anild\Documents\PycharmProjects\VertoFx_AutomationMaster\testCases\integrationTestCases\utils" />
+      <recent name="C:\Users\anild\Documents\PycharmProjects\VertoFx_AutomationMaster\testCases" />
+      <recent name="C:\Users\anild\Documents\PycharmProjects\VertoFx_AutomationMaster\baseModules" />
+      <recent name="C:\Users\anild\Documents\PycharmProjects\VertoFx_AutomationMaster\baseModules\onBoarding" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.launch_application">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="VertoFx_AutomationMaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\anild\.virtualenvs\VertoFx_AutomationMaster-XDm92rxT\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="launch_application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VertoFx_AutomationMaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\anild\.virtualenvs\VertoFx_AutomationMaster-XDm92rxT\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baseModules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baseModules/launch_application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_VFx_IT001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VertoFx_AutomationMaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\anild\.virtualenvs\VertoFx_AutomationMaster-XDm92rxT\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases/integrationTestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCases/integrationTestCases/test_VFx_IT001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="VertoFx_AutomationMaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONPATH" value="/Users/anild/Documents/PycharmProjects/VertoFx_AutomationMaster/" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\anild\.virtualenvs\VertoFx_AutomationMaster-XDm92rxT\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.launch_application" />
+        <item itemvalue="Python.test_VFx_IT001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b50fa4f1-6a5b-4a31-aa0d-c8e19f4d7189" name="Default Changelist" comment="" />
+      <created>1578119195417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578119195417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="38" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578387097678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="219" y="38" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578387097678" />
+    <state x="512" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578390007780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1578390007780" />
+    <state x="503" y="184" key="EnvironmentVariablesDialog" timestamp="1578386523138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="184" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578386523138" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1578387076869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578387076869" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1578536681037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578536681037" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1578536681037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578536681037" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1578536681037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578536681037" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1578536681037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578536681037" />
+    <state x="349" y="148" key="IDE.errors.dialog" timestamp="1578319383989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="148" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1578319383989" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1578471586030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578471586030" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1578537826070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578537826070" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578420870678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578420870678" />
+  </component>
+</project>
